@@ -1,4 +1,11 @@
+# Herkunft
+Aftershock ist ein Addon für die Originalmod Exogenesis von AureusStratus. Die Idee entstand, weil Exogenesis nach Welle 400 zu einfach wurde. Vielen Dank an AureusStratus für die großartige Originalmod!
+
+[Original Exogenesis von AureusStratus](https://github.com/AureusStratus/ExoGenesis)
+
 # Exogenesis: Aftershock
+
+<img src="icon.png" width="128" height="128" alt="Exogenesis: Aftershock icon">
 
 Baue deine Industrie aus und verteidige eine 800×800-Labyrinthwelt gegen endlose Angriffswellen. Begleitmod für **Mindustry 160.7 und Exogenesis 1.9.1**, verfügbar für PC und Android.
 

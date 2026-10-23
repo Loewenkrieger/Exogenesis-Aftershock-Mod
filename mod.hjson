@@ -1,0 +1,12 @@
+name: exogenesis-aftershock
+displayName: Exogenesis: Aftershock
+author: Loewenkrieger
+repo: Loewenkrieger/Exogenesis-Aftershock-Mod
+description: Addon for Exogenesis 1.9.1 by AureusStratus. Advanced industry, a labyrinth world and endless waves. Requires the original Exogenesis mod. PC + Android.
+version: 0.3.3
+minGameVersion: 160.7
+dependencies: [exogenesis]
+main: aftershock.AftershockMod
+java: true
+hidden: false
+hideBrowser: false

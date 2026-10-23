@@ -1,4 +1,4 @@
-# Produktionsübersicht — 0.3.2
+# Produktionsübersicht — 0.3.3
 
 Beschleuniger wirken einmal auf Prozessgeschwindigkeit und Strombedarf. Leerlauf, volle Ausgänge/Rückläufe und ausgeschaltete Anlagen ziehen keinen Prozessstrom. Die Energie einer Calamity-Zelle bleibt auch beschleunigt auf 9,6 Millionen begrenzt; zum Laden werden mindestens zwölf Millionen benötigt.
 

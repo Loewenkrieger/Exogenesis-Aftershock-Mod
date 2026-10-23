@@ -1,4 +1,4 @@
-# Production overview — 0.3.2
+# Production overview — 0.3.3
 
 Overdrive scales process speed and power demand once. Unfed, output/return-blocked and disabled plants draw no process power. A Calamity cell remains capped at 9.6 million energy with overdrive and requires at least 12 million charging energy.
 
