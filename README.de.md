@@ -1,3 +1,5 @@
+![Exogenesis: Aftershock — ein Addon für Exogenesis](docs/assets/banner.png)
+
 # Herkunft
 Aftershock ist ein Addon für die Originalmod Exogenesis von AureusStratus. Die Idee entstand, weil Exogenesis nach Welle 400 zu einfach wurde. Vielen Dank an AureusStratus für die großartige Originalmod!
 

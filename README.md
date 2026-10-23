@@ -1,3 +1,5 @@
+![Exogenesis: Aftershock — An addon for Exogenesis](docs/assets/banner.png)
+
 # Origin
 This is in no way a copy to the Original Exogenesis Mod and just an addon for it as the Original Mod got to easy after Wave 400. Love the Original Mod and thx to AureusStratus for creating it
 
