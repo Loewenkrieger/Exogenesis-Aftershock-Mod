@@ -1,3 +1,7 @@
+# Origin
+This is in no way a copy to the Original Exogenesis Mod and just an addon for it as the Original Mod got to easy after Wave 400. Love the Original Mod and thx to AureusStratus for creating it
+
+
 # Exogenesis: Aftershock
 
 Expand your industry and defend an 800×800 labyrinth world against endless waves. A companion mod for **Mindustry 160.7 and Exogenesis 1.9.1**, available for PC and Android.
